@@ -1,5 +1,11 @@
 # shell
 
+## Preview
+
+<p align="center">
+  <img alt="Example" src="assets/example.gif" />
+</p>
+
 ### Usage
 
 ```sh
