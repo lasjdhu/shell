@@ -1,4 +1,6 @@
-# shell
+# Shell
+
+A simple shell implementation with built-in commands.
 
 ## Preview
 
@@ -6,15 +8,20 @@
   <img alt="Example" src="assets/example.gif" />
 </p>
 
-### Usage
+## Usage
+
+Run shell executable that contains `cargo run`
 
 ```sh
 ./shell
 ```
 
-shell executable contains `cargo run` script
+## Features
 
-### Features
-
-- run commands specified in your `$PATH`
-- use builtin commands `exit`, `type`, `cd`, `pwd` and `echo`
+- Run commands available in your $PATH
+- Built-in commands:
+  - exit – Close the shell
+  - type – Display information about a command
+  - cd – Change the current directory
+  - pwd – Print the current directory
+  - echo – Print arguments to the terminal
